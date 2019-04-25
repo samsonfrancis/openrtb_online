@@ -1,0 +1,40 @@
+body {
+  width: 300px;
+  height: 250px;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+.container_dc {
+  position: absolute;;
+  margin-top: 0px;
+  margin-left: 0px;
+  width: 298px;
+  height: 248px;
+  background-color: #FFFFFF;
+  background-image: url('background_dc.jpg');
+  background-repeat: no-repeat;
+  border: 1px solid black;
+}
+
+#cta_dc {
+  position: absolute;;
+  margin-top: 50%;
+  margin-left: 30%;
+  width: 120px;
+  height: 40px;
+  background-image: url('cta_exit.jpg');
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.logo_dc {
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 5px;
+  background-image: url('logo_dc.png');
+  background-repeat: no-repeat;
+  padding:100px;
+  width:1px;
+  height:1px;
+}
